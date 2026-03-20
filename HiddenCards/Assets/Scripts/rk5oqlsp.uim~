@@ -1,0 +1,86 @@
+﻿using CardGame.Scripts;
+using System;
+using System.Threading.Tasks;
+using UnityEngine;
+
+namespace CardGame.Scripts
+{
+    public class CardView : MonoBehaviour
+    {
+        public Action<CardView> OnClicked;
+
+        [SerializeField] Transform visual;
+        [SerializeField] GameObject front;
+        [SerializeField] GameObject back;
+
+        public CardModel Model { get; private set; }
+
+        bool animating;
+
+        public void Init(CardModel model)
+        {
+            Model = model;
+            ShowBackInstant();
+            transform.localScale = Vector3.one;
+        }
+
+        public void Click()
+        {
+            if (animating || Model.IsMatched) return;
+            OnClicked?.Invoke(this);
+        }
+
+        public async Task Flip(bool showFront)
+        {
+            if (animating) return;
+            animating = true;
+
+            await RotateY(0, 90, 0.15f);
+
+            front.SetActive(showFront);
+            back.SetActive(!showFront);
+
+            await RotateY(90, 0, 0.15f);
+
+            animating = false;
+        }
+
+        public async Task HideAndRelease(Action<CardView> onDone)
+        {
+            Model.IsMatched = true;
+
+            float t = 0;
+            Vector3 start = transform.localScale;
+
+            while (t < 1)
+            {
+                t += Time.deltaTime * 6f;
+                transform.localScale = Vector3.Lerp(start, Vector3.zero, t);
+                await Task.Yield();
+            }
+
+            onDone?.Invoke(this);
+        }
+
+        async Task RotateY(float from, float to, float duration)
+        {
+            float time = 0;
+
+            while (time < duration)
+            {
+                time += Time.deltaTime;
+                float t = time / duration;
+                float angle = Mathf.Lerp(from, to, t);
+                visual.localRotation = Quaternion.Euler(0, angle, 0);
+                await Task.Yield();
+            }
+        }
+
+        void ShowBackInstant()
+        {
+            front.SetActive(false);
+            back.SetActive(true);
+            visual.localRotation = Quaternion.identity;
+        }
+    }
+}

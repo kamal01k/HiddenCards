@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: ce7dc8d25df9cb749b268a4e49e274fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6860661691919145062
+    second: neoriceisgood-100-bird-sprites_0
+  - first:
+      213: -4502516107270945621
+    second: neoriceisgood-100-bird-sprites_1
+  - first:
+      213: -639697559722418122
+    second: neoriceisgood-100-bird-sprites_2
+  - first:
+      213: -9147618661985693085
+    second: neoriceisgood-100-bird-sprites_3
+  - first:
+      213: 2314460083120370948
+    second: neoriceisgood-100-bird-sprites_4
+  - first:
+      213: -8945068595543489449
+    second: neoriceisgood-100-bird-sprites_5
+  - first:
+      213: -6771817226079774776
+    second: neoriceisgood-100-bird-sprites_6
+  - first:
+      213: 7042703696003946
+    second: neoriceisgood-100-bird-sprites_7
+  - first:
+      213: 2539063170890560963
+    second: neoriceisgood-100-bird-sprites_8
+  - first:
+      213: 2154218430029179711
+    second: neoriceisgood-100-bird-sprites_9
+  - first:
+      213: -5346245618371873491
+    second: neoriceisgood-100-bird-sprites_10
+  - first:
+      213: -8383465613013055625
+    second: neoriceisgood-100-bird-sprites_11
+  - first:
+      213: -5817698191747687483
+    second: neoriceisgood-100-bird-sprites_12
+  - first:
+      213: -1118828053390385662
+    second: neoriceisgood-100-bird-sprites_13
+  - first:
+      213: -431186700037187356
+    second: neoriceisgood-100-bird-sprites_14
+  - first:
+      213: 6421557030575658478
+    second: neoriceisgood-100-bird-sprites_15
+  - first:
+      213: -4381323137683191799
+    second: neoriceisgood-100-bird-sprites_16
+  - first:
+      213: 2876414388151464850
+    second: neoriceisgood-100-bird-sprites_17
+  - first:
+      213: 6492496191602320782
+    second: neoriceisgood-100-bird-sprites_18
+  - first:
+      213: -6671502366237840625
+    second: neoriceisgood-100-bird-sprites_19
+  - first:
+      213: -5650155489667284602
+    second: neoriceisgood-100-bird-sprites_20
+  - first:
+      213: 3988096748140953826
+    second: neoriceisgood-100-bird-sprites_21
+  - first:
+      213: 2149810833440450382
+    second: neoriceisgood-100-bird-sprites_22
+  - first:
+      213: 449731851475954978
+    second: neoriceisgood-100-bird-sprites_23
+  - first:
+      213: 7536753077470425807
+    second: neoriceisgood-100-bird-sprites_24
+  - first:
+      213: -7075405716515924061
+    second: neoriceisgood-100-bird-sprites_25
+  - first:
+      213: -444163434349246889
+    second: neoriceisgood-100-bird-sprites_26
+  - first:
+      213: -2948722082159347077
+    second: neoriceisgood-100-bird-sprites_27
+  - first:
+      213: 6044488872735417218
+    second: neoriceisgood-100-bird-sprites_28
+  - first:
+      213: 144363246833273405
+    second: neoriceisgood-100-bird-sprites_29
+  - first:
+      213: 1490844588465730196
+    second: neoriceisgood-100-bird-sprites_30
+  - first:
+      213: -5326615743738085008
+    second: neoriceisgood-100-bird-sprites_31
+  - first:
+      213: -6002159963387604318
+    second: neoriceisgood-100-bird-sprites_32
+  - first:
+      213: -3983424966683029405
+    second: neoriceisgood-100-bird-sprites_33
+  - first:
+      213: -1554988390544809269
+    second: neoriceisgood-100-bird-sprites_34
+  - first:
+      213: 42971516140049547
+    second: neoriceisgood-100-bird-sprites_35
+  - first:
+      213: -356803535316277663
+    second: neoriceisgood-100-bird-sprites_36
+  - first:
+      213: -4145916662172933272
+    second: neoriceisgood-100-bird-sprites_37
+  - first:
+      213: -788117530472580098
+    second: neoriceisgood-100-bird-sprites_38
+  - first:
+      213: -7211027594424496736
+    second: neoriceisgood-100-bird-sprites_39
+  - first:
+      213: -2323139899670363769
+    second: neoriceisgood-100-bird-sprites_40
+  - first:
+      213: -8317066184569603900
+    second: neoriceisgood-100-bird-sprites_41
+  - first:
+      213: -4956418314504284147
+    second: neoriceisgood-100-bird-sprites_42
+  - first:
+      213: 5458829851669235946
+    second: neoriceisgood-100-bird-sprites_43
+  - first:
+      213: 5802936917521230324
+    second: neoriceisgood-100-bird-sprites_44
+  - first:
+      213: 5765992900569055684
+    second: neoriceisgood-100-bird-sprites_45
+  - first:
+      213: 3242166933622579555
+    second: neoriceisgood-100-bird-sprites_46
+  - first:
+      213: 4812747892406417442
+    second: neoriceisgood-100-bird-sprites_47
+  - first:
+      213: -4113702601994845949
+    second: neoriceisgood-100-bird-sprites_48
+  - first:
+      213: 3335538912039498013
+    second: neoriceisgood-100-bird-sprites_49
+  - first:
+      213: 6265168008435025465
+    second: neoriceisgood-100-bird-sprites_50
+  - first:
+      213: 1232520126240838442
+    second: neoriceisgood-100-bird-sprites_51
+  - first:
+      213: 3651593013857801381
+    second: neoriceisgood-100-bird-sprites_52
+  - first:
+      213: 145208379146216615
+    second: neoriceisgood-100-bird-sprites_53
+  - first:
+      213: -7668663027859534744
+    second: neoriceisgood-100-bird-sprites_54
+  - first:
+      213: -643845658818200839
+    second: neoriceisgood-100-bird-sprites_55
+  - first:
+      213: -7133676823888799712
+    second: neoriceisgood-100-bird-sprites_56
+  - first:
+      213: -7926411131593897433
+    second: neoriceisgood-100-bird-sprites_57
+  - first:
+      213: -605064710589470364
+    second: neoriceisgood-100-bird-sprites_58
+  - first:
+      213: -9017421814528140887
+    second: neoriceisgood-100-bird-sprites_59
+  - first:
+      213: 4993060255756944234
+    second: neoriceisgood-100-bird-sprites_60
+  - first:
+      213: 7237831672277865675
+    second: neoriceisgood-100-bird-sprites_61
+  - first:
+      213: 3731212891204691988
+    second: neoriceisgood-100-bird-sprites_62
+  - first:
+      213: -8820261048320706448
+    second: neoriceisgood-100-bird-sprites_63
+  - first:
+      213: 5815842577277805976
+    second: neoriceisgood-100-bird-sprites_64
+  - first:
+      213: 4345802661878143478
+    second: neoriceisgood-100-bird-sprites_65
+  - first:
+      213: 4391036136188731321
+    second: neoriceisgood-100-bird-sprites_66
+  - first:
+      213: -7500169179106803211
+    second: neoriceisgood-100-bird-sprites_67
+  - first:
+      213: 1202709387333260066
+    second: neoriceisgood-100-bird-sprites_68
+  - first:
+      213: -6428857010910466008
+    second: neoriceisgood-100-bird-sprites_69
+  - first:
+      213: 9176542776318054481
+    second: neoriceisgood-100-bird-sprites_70
+  - first:
+      213: -1762792381329028050
+    second: neoriceisgood-100-bird-sprites_71
+  - first:
+      213: 3835435988456042788
+    second: neoriceisgood-100-bird-sprites_72
+  - first:
+      213: 3568851825291140303
+    second: neoriceisgood-100-bird-sprites_73
+  - first:
+      213: -7509365337586216032
+    second: neoriceisgood-100-bird-sprites_74
+  - first:
+      213: 6876322798285950993
+    second: neoriceisgood-100-bird-sprites_75
+  - first:
+      213: -4127641816350638897
+    second: neoriceisgood-100-bird-sprites_76
+  - first:
+      213: -3792498345134901541
+    second: neoriceisgood-100-bird-sprites_77
+  - first:
+      213: 4744792885315978020
+    second: neoriceisgood-100-bird-sprites_78
+  - first:
+      213: -5426415803563329392
+    second: neoriceisgood-100-bird-sprites_79
+  - first:
+      213: 1009981455910519071
+    second: neoriceisgood-100-bird-sprites_80
+  - first:
+      213: -4497312159329716477
+    second: neoriceisgood-100-bird-sprites_81
+  - first:
+      213: 7040999682232900306
+    second: neoriceisgood-100-bird-sprites_82
+  - first:
+      213: 1818195912997766376
+    second: neoriceisgood-100-bird-sprites_83
+  - first:
+      213: -8550610124950660587
+    second: neoriceisgood-100-bird-sprites_84
+  - first:
+      213: -5084897006664142465
+    second: neoriceisgood-100-bird-sprites_85
+  - first:
+      213: 548403208793446577
+    second: neoriceisgood-100-bird-sprites_86
+  - first:
+      213: -7365730062325023514
+    second: neoriceisgood-100-bird-sprites_87
+  - first:
+      213: -1570434669038229936
+    second: neoriceisgood-100-bird-sprites_88
+  - first:
+      213: 2335298700383481679
+    second: neoriceisgood-100-bird-sprites_89
+  - first:
+      213: 6997991039319753719
+    second: neoriceisgood-100-bird-sprites_90
+  - first:
+      213: 5457111838878594673
+    second: neoriceisgood-100-bird-sprites_91
+  - first:
+      213: -8626838244739091049
+    second: neoriceisgood-100-bird-sprites_92
+  - first:
+      213: -1420423043382278095
+    second: neoriceisgood-100-bird-sprites_93
+  - first:
+      213: 8941562537202915681
+    second: neoriceisgood-100-bird-sprites_94
+  - first:
+      213: 70518785768430325
+    second: neoriceisgood-100-bird-sprites_95
+  - first:
+      213: 1464529979376180309
+    second: neoriceisgood-100-bird-sprites_96
+  - first:
+      213: 6747046519125757192
+    second: neoriceisgood-100-bird-sprites_97
+  - first:
+      213: 4996351189151895807
+    second: neoriceisgood-100-bird-sprites_98
+  - first:
+      213: -7397905772009452791
+    second: neoriceisgood-100-bird-sprites_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 561
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9767016a880ac0a0800000000000000
+      internalID: -6860661691919145062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 561
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba404aea479d381c0800000000000000
+      internalID: -4502516107270945621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 561
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630af0d65765f17f0800000000000000
+      internalID: -639697559722418122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 561
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362db970b412d0180800000000000000
+      internalID: -9147618661985693085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 561
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405f53dde2d9e1020800000000000000
+      internalID: 2314460083120370948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 561
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754c02f518bbcd380800000000000000
+      internalID: -8945068595543489449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 561
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7d4ab8c1ca502a0800000000000000
+      internalID: -6771817226079774776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 561
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a630f0c3d45091000800000000000000
+      internalID: 7042703696003946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_8
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 561
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5753b50809c3320800000000000000
+      internalID: 2539063170890560963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 563
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b2d72af3255ed10800000000000000
+      internalID: 2154218430029179711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 499
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25b4fa8fe15ec5b0800000000000000
+      internalID: -5346245618371873491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 499
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77787a54172f7ab80800000000000000
+      internalID: -8383465613013055625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 499
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb527e6152634fa0800000000000000
+      internalID: -5817698191747687483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 499
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e9ce030df1970f0800000000000000
+      internalID: -1118828053390385662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 499
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e819681bfd140af0800000000000000
+      internalID: -431186700037187356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 499
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5df50b814fd1950800000000000000
+      internalID: 6421557030575658478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 499
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908813cc1d96233c0800000000000000
+      internalID: -4381323137683191799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 499
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293379865a31be720800000000000000
+      internalID: 2876414388151464850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_18
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 499
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85680633eaf91a50800000000000000
+      internalID: 6492496191602320782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_19
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 501
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b273ee1ff0a63a0800000000000000
+      internalID: -6671502366237840625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 437
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68188a8948d9691b0800000000000000
+      internalID: -5650155489667284602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 375
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e005d2dcd0985730800000000000000
+      internalID: 3988096748140953826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 437
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4721851099a5dd10800000000000000
+      internalID: 2149810833440450382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 375
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d27637cb4cd3600800000000000000
+      internalID: 449731851475954978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 437
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f4761efce79860800000000000000
+      internalID: 7536753077470425807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 375
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7dc49ecfb1fcd90800000000000000
+      internalID: -7075405716515924061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 437
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7564561b5b306d9f0800000000000000
+      internalID: -444163434349246889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 375
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aba87a3e80417d0800000000000000
+      internalID: -2948722082159347077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 437
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283223cca9652e350800000000000000
+      internalID: 6044488872735417218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 375
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a8e1eab91e00200800000000000000
+      internalID: 144363246833273405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 437
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49230de114b80b410800000000000000
+      internalID: 1490844588465730196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 375
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0710d73e33f0416b0800000000000000
+      internalID: -5326615743738085008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 375
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2d539605b04bca0800000000000000
+      internalID: -6002159963387604318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 437
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3609f6f091808b8c0800000000000000
+      internalID: -3983424966683029405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_34
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 437
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc268b72c429b6ae0800000000000000
+      internalID: -1554988390544809269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_35
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 375
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84dcf2cd5aa89000800000000000000
+      internalID: 42971516140049547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_36
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 437
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166aed633116c0bf0800000000000000
+      internalID: -356803535316277663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_37
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 375
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8632fc203ceb676c0800000000000000
+      internalID: -4145916662172933272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_38
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 437
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb7cea184b0015f0800000000000000
+      internalID: -788117530472580098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_39
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 375
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adc9c8cb984deb90800000000000000
+      internalID: -7211027594424496736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 313
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7818c9cd19c82cfd0800000000000000
+      internalID: -2323139899670363769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 313
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b05fee58d39c80800000000000000
+      internalID: -8317066184569603900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 313
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d085bbd9dc3473bb0800000000000000
+      internalID: -4956418314504284147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 313
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae80b06f3d8a1cb40800000000000000
+      internalID: 5458829851669235946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_44
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 313
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f96ad6916c288050800000000000000
+      internalID: 5802936917521230324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 313
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1c7d75efbe40050800000000000000
+      internalID: 5765992900569055684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_46
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 313
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361671df5ad7efc20800000000000000
+      internalID: 3242166933622579555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_47
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 313
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228f46885b05ac240800000000000000
+      internalID: 4812747892406417442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_48
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 315
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3014f70674139e6c0800000000000000
+      internalID: -4113702601994845949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_49
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 315
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d117b92d7f63a4e20800000000000000
+      internalID: 3335538912039498013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 253
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93649e00c1952f650800000000000000
+      internalID: 6265168008435025465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 251
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23da1f468aca1110800000000000000
+      internalID: 1232520126240838442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 251
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4da47cf701da230800000000000000
+      internalID: 3651593013857801381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 251
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4ab616042e30200800000000000000
+      internalID: 145208379146216615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 251
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cc2424b9f639590800000000000000
+      internalID: -7668663027859534744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 251
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fab6f7d8c99017f0800000000000000
+      internalID: -643845658818200839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_56
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 253
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028dba979b6100d90800000000000000
+      internalID: -7133676823888799712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_57
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 251
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ac4ad521bbff190800000000000000
+      internalID: -7926411131593897433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_58
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 253
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469a03bf9d06a97f0800000000000000
+      internalID: -605064710589470364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_59
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 253
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a91133d2aeabd280800000000000000
+      internalID: -9017421814528140887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 189
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63838629d9ea4540800000000000000
+      internalID: 4993060255756944234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 189
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4913aee81f17460800000000000000
+      internalID: 7237831672277865675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 189
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4182d911b5ee7c330800000000000000
+      internalID: 3731212891204691988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 189
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07831acee43289580800000000000000
+      internalID: -8820261048320706448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_64
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 189
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8956c38a20606b050800000000000000
+      internalID: 5815842577277805976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 189
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f99135fe746f4c30800000000000000
+      internalID: 4345802661878143478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_66
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 189
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfde65e91810fc30800000000000000
+      internalID: 4391036136188731321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_67
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 189
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f181048edb0ae790800000000000000
+      internalID: -7500169179106803211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_68
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 189
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223d608c0d1e0b010800000000000000
+      internalID: 1202709387333260066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_69
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 191
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820f6e03c9c18c6a0800000000000000
+      internalID: -6428857010910466008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 127
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1505d902901a95f70800000000000000
+      internalID: 9176542776318054481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_71
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 67
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c4e1a3bad4987e0800000000000000
+      internalID: -1762792381329028050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 127
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421fba2e5b43a3530800000000000000
+      internalID: 3835435988456042788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_73
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc9b7693db178130800000000000000
+      internalID: 3568851825291140303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_74
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3da84030069c790800000000000000
+      internalID: -7509365337586216032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_75
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11011c8172b9d6f50800000000000000
+      internalID: 6876322798285950993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc3f5023aba7b6c0800000000000000
+      internalID: -4127641816350638897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_77
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 65
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd63afe39d65e5bc0800000000000000
+      internalID: -3792498345134901541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_78
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 127
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4234f0e7df3e8d140800000000000000
+      internalID: 4744792885315978020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_79
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 65
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098ba09b39f71b4b0800000000000000
+      internalID: -5426415803563329392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_80
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 127
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11474578cc240e00800000000000000
+      internalID: 1009981455910519071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_81
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 67
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3077b1b3b665691c0800000000000000
+      internalID: -4497312159329716477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_82
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 127
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da512bf7e7a6b160800000000000000
+      internalID: 7040999682232900306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_83
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 67
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e48c46bc878b3910800000000000000
+      internalID: 1818195912997766376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_84
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 127
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a1579f461265980800000000000000
+      internalID: -8550610124950660587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_85
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 65
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7136560d11de69b0800000000000000
+      internalID: -5084897006664142465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_86
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 127
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b851d510d15c9700800000000000000
+      internalID: 548403208793446577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_87
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 65
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec73bb988ba7c990800000000000000
+      internalID: -7365730062325023514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_88
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 127
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056a4013df1b43ae0800000000000000
+      internalID: -1570434669038229936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_89
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 65
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fe9c88bc5a86020800000000000000
+      internalID: 2335298700383481679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f34508f5cbdd1160800000000000000
+      internalID: 6997991039319753719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 5
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176ffefed4e8bbb40800000000000000
+      internalID: 5457111838878594673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_92
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7957297c250574880800000000000000
+      internalID: -8626838244739091049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_93
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1388b6c84c4a94ce0800000000000000
+      internalID: -1420423043382278095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_94
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1699beec0cfc61c70800000000000000
+      internalID: 8941562537202915681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_95
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa18b746788af000800000000000000
+      internalID: 70518785768430325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_96
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c90afb14e035410800000000000000
+      internalID: 1464529979376180309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_97
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dc68fcf0352ad50800000000000000
+      internalID: 6747046519125757192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_98
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0df7a4fea965540800000000000000
+      internalID: 4996351189151895807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neoriceisgood-100-bird-sprites_99
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b809965eb555990800000000000000
+      internalID: -7397905772009452791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      neoriceisgood-100-bird-sprites_0: -6860661691919145062
+      neoriceisgood-100-bird-sprites_1: -4502516107270945621
+      neoriceisgood-100-bird-sprites_10: -5346245618371873491
+      neoriceisgood-100-bird-sprites_11: -8383465613013055625
+      neoriceisgood-100-bird-sprites_12: -5817698191747687483
+      neoriceisgood-100-bird-sprites_13: -1118828053390385662
+      neoriceisgood-100-bird-sprites_14: -431186700037187356
+      neoriceisgood-100-bird-sprites_15: 6421557030575658478
+      neoriceisgood-100-bird-sprites_16: -4381323137683191799
+      neoriceisgood-100-bird-sprites_17: 2876414388151464850
+      neoriceisgood-100-bird-sprites_18: 6492496191602320782
+      neoriceisgood-100-bird-sprites_19: -6671502366237840625
+      neoriceisgood-100-bird-sprites_2: -639697559722418122
+      neoriceisgood-100-bird-sprites_20: -5650155489667284602
+      neoriceisgood-100-bird-sprites_21: 3988096748140953826
+      neoriceisgood-100-bird-sprites_22: 2149810833440450382
+      neoriceisgood-100-bird-sprites_23: 449731851475954978
+      neoriceisgood-100-bird-sprites_24: 7536753077470425807
+      neoriceisgood-100-bird-sprites_25: -7075405716515924061
+      neoriceisgood-100-bird-sprites_26: -444163434349246889
+      neoriceisgood-100-bird-sprites_27: -2948722082159347077
+      neoriceisgood-100-bird-sprites_28: 6044488872735417218
+      neoriceisgood-100-bird-sprites_29: 144363246833273405
+      neoriceisgood-100-bird-sprites_3: -9147618661985693085
+      neoriceisgood-100-bird-sprites_30: 1490844588465730196
+      neoriceisgood-100-bird-sprites_31: -5326615743738085008
+      neoriceisgood-100-bird-sprites_32: -6002159963387604318
+      neoriceisgood-100-bird-sprites_33: -3983424966683029405
+      neoriceisgood-100-bird-sprites_34: -1554988390544809269
+      neoriceisgood-100-bird-sprites_35: 42971516140049547
+      neoriceisgood-100-bird-sprites_36: -356803535316277663
+      neoriceisgood-100-bird-sprites_37: -4145916662172933272
+      neoriceisgood-100-bird-sprites_38: -788117530472580098
+      neoriceisgood-100-bird-sprites_39: -7211027594424496736
+      neoriceisgood-100-bird-sprites_4: 2314460083120370948
+      neoriceisgood-100-bird-sprites_40: -2323139899670363769
+      neoriceisgood-100-bird-sprites_41: -8317066184569603900
+      neoriceisgood-100-bird-sprites_42: -4956418314504284147
+      neoriceisgood-100-bird-sprites_43: 5458829851669235946
+      neoriceisgood-100-bird-sprites_44: 5802936917521230324
+      neoriceisgood-100-bird-sprites_45: 5765992900569055684
+      neoriceisgood-100-bird-sprites_46: 3242166933622579555
+      neoriceisgood-100-bird-sprites_47: 4812747892406417442
+      neoriceisgood-100-bird-sprites_48: -4113702601994845949
+      neoriceisgood-100-bird-sprites_49: 3335538912039498013
+      neoriceisgood-100-bird-sprites_5: -8945068595543489449
+      neoriceisgood-100-bird-sprites_50: 6265168008435025465
+      neoriceisgood-100-bird-sprites_51: 1232520126240838442
+      neoriceisgood-100-bird-sprites_52: 3651593013857801381
+      neoriceisgood-100-bird-sprites_53: 145208379146216615
+      neoriceisgood-100-bird-sprites_54: -7668663027859534744
+      neoriceisgood-100-bird-sprites_55: -643845658818200839
+      neoriceisgood-100-bird-sprites_56: -7133676823888799712
+      neoriceisgood-100-bird-sprites_57: -7926411131593897433
+      neoriceisgood-100-bird-sprites_58: -605064710589470364
+      neoriceisgood-100-bird-sprites_59: -9017421814528140887
+      neoriceisgood-100-bird-sprites_6: -6771817226079774776
+      neoriceisgood-100-bird-sprites_60: 4993060255756944234
+      neoriceisgood-100-bird-sprites_61: 7237831672277865675
+      neoriceisgood-100-bird-sprites_62: 3731212891204691988
+      neoriceisgood-100-bird-sprites_63: -8820261048320706448
+      neoriceisgood-100-bird-sprites_64: 5815842577277805976
+      neoriceisgood-100-bird-sprites_65: 4345802661878143478
+      neoriceisgood-100-bird-sprites_66: 4391036136188731321
+      neoriceisgood-100-bird-sprites_67: -7500169179106803211
+      neoriceisgood-100-bird-sprites_68: 1202709387333260066
+      neoriceisgood-100-bird-sprites_69: -6428857010910466008
+      neoriceisgood-100-bird-sprites_7: 7042703696003946
+      neoriceisgood-100-bird-sprites_70: 9176542776318054481
+      neoriceisgood-100-bird-sprites_71: -1762792381329028050
+      neoriceisgood-100-bird-sprites_72: 3835435988456042788
+      neoriceisgood-100-bird-sprites_73: 3568851825291140303
+      neoriceisgood-100-bird-sprites_74: -7509365337586216032
+      neoriceisgood-100-bird-sprites_75: 6876322798285950993
+      neoriceisgood-100-bird-sprites_76: -4127641816350638897
+      neoriceisgood-100-bird-sprites_77: -3792498345134901541
+      neoriceisgood-100-bird-sprites_78: 4744792885315978020
+      neoriceisgood-100-bird-sprites_79: -5426415803563329392
+      neoriceisgood-100-bird-sprites_8: 2539063170890560963
+      neoriceisgood-100-bird-sprites_80: 1009981455910519071
+      neoriceisgood-100-bird-sprites_81: -4497312159329716477
+      neoriceisgood-100-bird-sprites_82: 7040999682232900306
+      neoriceisgood-100-bird-sprites_83: 1818195912997766376
+      neoriceisgood-100-bird-sprites_84: -8550610124950660587
+      neoriceisgood-100-bird-sprites_85: -5084897006664142465
+      neoriceisgood-100-bird-sprites_86: 548403208793446577
+      neoriceisgood-100-bird-sprites_87: -7365730062325023514
+      neoriceisgood-100-bird-sprites_88: -1570434669038229936
+      neoriceisgood-100-bird-sprites_89: 2335298700383481679
+      neoriceisgood-100-bird-sprites_9: 2154218430029179711
+      neoriceisgood-100-bird-sprites_90: 6997991039319753719
+      neoriceisgood-100-bird-sprites_91: 5457111838878594673
+      neoriceisgood-100-bird-sprites_92: -8626838244739091049
+      neoriceisgood-100-bird-sprites_93: -1420423043382278095
+      neoriceisgood-100-bird-sprites_94: 8941562537202915681
+      neoriceisgood-100-bird-sprites_95: 70518785768430325
+      neoriceisgood-100-bird-sprites_96: 1464529979376180309
+      neoriceisgood-100-bird-sprites_97: 6747046519125757192
+      neoriceisgood-100-bird-sprites_98: 4996351189151895807
+      neoriceisgood-100-bird-sprites_99: -7397905772009452791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
