@@ -1,20 +1,32 @@
-﻿using System.Collections;
+﻿using Core;
 using UnityEngine;
 
 namespace CardGame.Scripts
 {
     public class AudioManager : MonoBehaviour
     {
-        public static AudioManager Instance;
+        [SerializeField] private AudioSource source;
+        [SerializeField] private AudioClip flip, match, mismatch, gameOver;
 
-        public AudioSource source;
-        public AudioClip flip, match, mismatch, gameOver;
+        private void OnEnable()
+        {
+            MessageCenter.AddListener(AudioNote.PlayFlip, PlayFlip);
+            MessageCenter.AddListener(AudioNote.PlayMatch, PlayMatch);
+            MessageCenter.AddListener(AudioNote.PlayMismatch, PlayMismatch);
+            MessageCenter.AddListener(AudioNote.PlayGameOver, PlayGameOver);
+        }
 
-        void Awake() => Instance = this;
+        private void OnDisable()
+        {
+            MessageCenter.RemoveListener(AudioNote.PlayFlip, PlayFlip);
+            MessageCenter.RemoveListener(AudioNote.PlayMatch, PlayMatch);
+            MessageCenter.RemoveListener(AudioNote.PlayMismatch, PlayMismatch);
+            MessageCenter.RemoveListener(AudioNote.PlayGameOver, PlayGameOver);
+        }
 
-        public void PlayFlip() => source.PlayOneShot(flip);
-        public void PlayMatch() => source.PlayOneShot(match);
-        public void PlayMismatch() => source.PlayOneShot(mismatch);
-        public void PlayGameOver() => source.PlayOneShot(gameOver);
+        private void PlayFlip() => source.PlayOneShot(flip);
+        private void PlayMatch() => source.PlayOneShot(match);
+        private void PlayMismatch() => source.PlayOneShot(mismatch);
+        private void PlayGameOver() => source.PlayOneShot(gameOver);
     }
 }

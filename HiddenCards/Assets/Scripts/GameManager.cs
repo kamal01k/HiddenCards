@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Core;
+using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using UnityEngine;
@@ -114,7 +115,7 @@ namespace CardGame.Scripts
             card.Model.IsRevealed = true;
 
             await card.Flip(true);
-            AudioManager.Instance.PlayFlip();
+            MessageCenter.Send(AudioNote.PlayFlip);
 
             revealed.Add(card);
 
@@ -138,7 +139,7 @@ namespace CardGame.Scripts
             {
                 matches++;
                 UIManager.Instance.SetMatches(matches);
-                AudioManager.Instance.PlayMatch();
+                MessageCenter.Send(AudioNote.PlayMatch);
 
                 await Task.Delay(250);
 
@@ -147,7 +148,7 @@ namespace CardGame.Scripts
             }
             else
             {
-                AudioManager.Instance.PlayMismatch();
+                MessageCenter.Send(AudioNote.PlayMismatch);
 
                 await Task.Delay(600);
                 
@@ -168,7 +169,7 @@ namespace CardGame.Scripts
             {
                 level++;
                 SaveSystem.Save(level);
-                AudioManager.Instance.PlayGameOver();
+                MessageCenter.Send(AudioNote.PlayGameOver);
                 StartLevel();
             }
         }
