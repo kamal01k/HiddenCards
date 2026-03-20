@@ -27,7 +27,7 @@ namespace CardGame.Scripts
         void LoadProgress()
         {
             level = SaveSystem.Load();
-            UIManager.Instance.SetLevel(level);
+            MessageCenter.Send(LevelNote.Set, level);
         }
 
         Vector2Int GetLevelSize(int level)
@@ -130,7 +130,7 @@ namespace CardGame.Scripts
         async Task EvaluatePair()
         {
             turns++;
-            UIManager.Instance.SetTurns(turns);
+            MessageCenter.Send(TurnNote.Set, turns);
 
             var a = revealed[0];
             var b = revealed[1];
@@ -138,7 +138,7 @@ namespace CardGame.Scripts
             if (a.Model.Id == b.Model.Id)
             {
                 matches++;
-                UIManager.Instance.SetMatches(matches);
+                MessageCenter.Send(MatchesNote.Set, matches);
                 MessageCenter.Send(AudioNote.PlayMatch);
 
                 await Task.Delay(250);
@@ -169,6 +169,7 @@ namespace CardGame.Scripts
             {
                 level++;
                 SaveSystem.Save(level);
+                MessageCenter.Send(LevelNote.Set, level);
                 MessageCenter.Send(AudioNote.PlayGameOver);
                 StartLevel();
             }
