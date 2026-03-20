@@ -1,12 +1,26 @@
+using Core;
 using TMPro;
 using UnityEngine;
 
-public class LevelText : MonoBehaviour
+namespace CardGame
 {
-    [SerializeField] TextMeshProUGUI levelText;
-
-    private void SetLevel(int value)
+    public class LevelText : MonoBehaviour
     {
-        levelText.text = $"Level: {value}";
+        [SerializeField] TextMeshProUGUI levelText;
+
+        private void OnEnable()
+        {
+            MessageCenter.AddListener(LevelNote.Set, SetLevel);
+        }
+
+        private void OnDisable()
+        {
+            MessageCenter.RemoveListener(LevelNote.Set, SetLevel);
+        }
+
+        private void SetLevel(int value)
+        {
+            levelText.text = $"Level: {value}";
+        }
     }
 }

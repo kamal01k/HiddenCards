@@ -1,12 +1,26 @@
+using Core;
 using TMPro;
 using UnityEngine;
 
-public class MatchesText : MonoBehaviour
+namespace CardGame
 {
-    [SerializeField] TextMeshProUGUI matchesText;
-
-    private void SetMatches(int value)
+    public class MatchesText : MonoBehaviour
     {
-        matchesText.text = $"Matches: {value}";
+        [SerializeField] TextMeshProUGUI matchesText;
+
+        private void OnEnable()
+        {
+            MessageCenter.AddListener(MatchesNote.Set, SetMatches);
+        }
+
+        private void OnDisable()
+        {
+            MessageCenter.RemoveListener(MatchesNote.Set, SetMatches);
+        }
+
+        private void SetMatches(int value)
+        {
+            matchesText.text = $"Matches: {value}";
+        }
     }
 }
