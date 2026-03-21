@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6056762062602168223}
   - component: {fileID: 2757571481712421230}
   - component: {fileID: 4109840119937783665}
+  - component: {fileID: 2825924904391449350}
   m_Layer: 5
   m_Name: Match Text (TMP)
   m_TagString: Untagged
@@ -137,6 +138,19 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &2825924904391449350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 296004097350618743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18690c49200c820499e1da2e078ead3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CardGame.MatchesText
+  matchesText: {fileID: 4109840119937783665}
 --- !u!1 &852681100510894026
 GameObject:
   m_ObjectHideFlags: 0
@@ -492,6 +506,7 @@ GameObject:
   - component: {fileID: 4051089198569727360}
   - component: {fileID: 3659729821906748821}
   - component: {fileID: 8215702326338692569}
+  - component: {fileID: 5128386194290891053}
   m_Layer: 5
   m_Name: Level Text (TMP)
   m_TagString: Untagged
@@ -618,6 +633,19 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &5128386194290891053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8118613691146856257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b59e06b00ef0a3489ae3889625a9b95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CardGame.LevelText
+  levelText: {fileID: 8215702326338692569}
 --- !u!1 &8184372083989601189
 GameObject:
   m_ObjectHideFlags: 0
@@ -629,6 +657,7 @@ GameObject:
   - component: {fileID: 2059585101465034935}
   - component: {fileID: 115455112368144821}
   - component: {fileID: 1511029084530920898}
+  - component: {fileID: 7984080020484527861}
   m_Layer: 5
   m_Name: Turn Text (TMP)
   m_TagString: Untagged
@@ -755,3 +784,16 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &7984080020484527861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8184372083989601189}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd892e6282711f541b69b2591115418c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CardGame.TurnText
+  turnsText: {fileID: 1511029084530920898}

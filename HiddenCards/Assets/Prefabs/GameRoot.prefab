@@ -44,8 +44,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 865f0c4f1fa656f47808f489334c4bc8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CardGame.Scripts.GameManager
-  board: {fileID: 8434019908160884139}
-  spriteLibrary: {fileID: 11400000, guid: 3d532f372aba1f54494f754abddf7fee, type: 2}
 --- !u!1 &708695367936906099
 GameObject:
   m_ObjectHideFlags: 0
@@ -193,53 +191,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!1 &2407552861768573386
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 3826742868834800086}
-  - component: {fileID: 6119885539445843615}
-  m_Layer: 0
-  m_Name: UIManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &3826742868834800086
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2407552861768573386}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 774961657856467655}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6119885539445843615
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2407552861768573386}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70d21955430c02848b8fc8851a672906, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CardGame.Scripts.UIManager
-  turnsText: {fileID: 0}
-  matchesText: {fileID: 0}
-  levelText: {fileID: 0}
 --- !u!1 &2726801371635933131
 GameObject:
   m_ObjectHideFlags: 0
@@ -273,7 +224,6 @@ Transform:
   - {fileID: 8317497330511397583}
   - {fileID: 6282756331629176576}
   - {fileID: 1643013378933667031}
-  - {fileID: 3826742868834800086}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5768302008793588457
@@ -368,3 +318,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardGame.Scripts.BoardManager
   grid: {fileID: 0}
   pool: {fileID: 2603979398207522864}
+  spriteLibrary: {fileID: 11400000, guid: 3d532f372aba1f54494f754abddf7fee, type: 2}

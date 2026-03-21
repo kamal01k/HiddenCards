@@ -1,4 +1,4 @@
-﻿using System;
+﻿using Core;
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.UI;
@@ -7,14 +7,11 @@ namespace CardGame.Scripts
 {
     public class CardView : MonoBehaviour
     {
-        public Action<CardView> OnClicked;
-
         [SerializeField] Image frontImage;
         [SerializeField] Transform visual;
         [SerializeField] GameObject front;
         [SerializeField] GameObject back;
-
-        CanvasGroup group;
+        [SerializeField] CanvasGroup group;
 
         public CardModel Model { get; private set; }
 
@@ -22,23 +19,33 @@ namespace CardGame.Scripts
 
         public void Init(CardModel model)
         {
-            if (!group && group == null)
-            {
-                group = GetComponent<CanvasGroup>();
-            }
             Model = model;
 
             frontImage.sprite = model.Sprite;
 
             ShowBackInstant();
             transform.localScale = Vector3.one;
+            CanvasGroupActivate();
+        }
+
+        private void CanvasGroupDeactivate()
+        {
+            group.alpha = 0f;
+            group.interactable = false;
+            group.blocksRaycasts = false;
+        }
+
+        private void CanvasGroupActivate()
+        {
             group.alpha = 1f;
+            group.interactable = true;
+            group.blocksRaycasts = true;
         }
 
         public void Click()
         {
             if (animating || Model.IsMatched) return;
-            OnClicked?.Invoke(this);
+            MessageCenter.Send(CardNote.OnClick, this);
         }
 
         public async Task Flip(bool showFront)
@@ -72,9 +79,7 @@ namespace CardGame.Scripts
                 await Task.Yield();
             }
 
-            group.alpha = 0f;
-            group.interactable = false;
-            group.blocksRaycasts = false;
+            CanvasGroupDeactivate();
         }
 
         async Task RotateY(float from, float to, float duration)

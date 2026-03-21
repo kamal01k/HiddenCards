@@ -13,6 +13,8 @@ namespace CardGame.Scripts
         {
             Id = id;
             Sprite = sprite;
+            IsMatched = false;
+            IsRevealed = false;
         }
     }
 }

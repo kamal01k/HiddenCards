@@ -8,15 +8,24 @@ namespace CardGame.Scripts
 {
     public class GameManager : MonoBehaviour
     {
-        [SerializeField] BoardManager board;
-        [SerializeField] CardSpriteLibrary spriteLibrary;
-
         List<CardView> revealed = new();
 
         int turns;
         int matches;
         int level = 1;
         bool isEvaluating;
+
+        private void OnEnable()
+        {
+            MessageCenter.AddListener(CardNote.OnClick, OnCardClicked);
+            MessageCenter.AddListener(GameNote.OnComplete, OnLevelComplete);
+        }
+
+        private void OnDisable()
+        {
+            MessageCenter.RemoveListener(CardNote.OnClick, OnCardClicked);
+            MessageCenter.RemoveListener(GameNote.OnComplete, OnLevelComplete);
+        }
 
         void Start()
         {
@@ -30,81 +39,9 @@ namespace CardGame.Scripts
             MessageCenter.Send(LevelNote.Set, level);
         }
 
-        Vector2Int GetLevelSize(int level)
+        void StartLevel()
         {
-            return level switch
-            {
-                1 => new Vector2Int(2, 2),
-                2 => new Vector2Int(2, 3),
-                3 => new Vector2Int(3, 4),
-                4 => new Vector2Int(4, 5),
-                _ => new Vector2Int(5, 6),
-            };
-        }
-
-        List<CardModel> GenerateCards(int total)
-        {
-            int pairs = total / 2;
-
-            var sprites = new List<Sprite>(spriteLibrary.availableSprites);
-
-            if (sprites.Count < pairs)
-            {
-                Debug.LogError("Not enough sprites in library!");
-                return null;
-            }
-
-            // Shuffle sprite list
-            sprites = sprites.OrderBy(x => Random.value).ToList();
-
-            List<CardModel> result = new();
-
-            for (int i = 0; i < pairs; i++)
-            {
-                Sprite chosen = sprites[i];
-
-                result.Add(new CardModel(i, chosen));
-                result.Add(new CardModel(i, chosen));
-            }
-
-            return result.OrderBy(x => Random.value).ToList();
-        }
-
-        Task StartLevel()
-        {
-            var size = GetLevelSize(level);
-            var data = GenerateCards(size.x * size.y);
-
-            board.BuildBoard(size.x, size.y, data);
-
-            foreach (var c in board.GetCards())
-                c.OnClicked += OnCardClicked;
-
-            StartPreview();
-            return Task.CompletedTask;
-        }
-
-        async void StartPreview()
-        {
-            var cards = board.GetCards();
-
-            // Flip all at same time
-            var flipOpenTasks = new List<Task>();
-
-            foreach (var c in cards)
-                flipOpenTasks.Add(c.Flip(true));
-
-            await Task.WhenAll(flipOpenTasks);
-
-            await Task.Delay(1500);
-
-            // Flip all back at same time
-            var flipCloseTasks = new List<Task>();
-
-            foreach (var c in cards)
-                flipCloseTasks.Add(c.Flip(false));
-
-            await Task.WhenAll(flipCloseTasks);
+            MessageCenter.Send(BoardNote.Start, level);
         }
 
         async void OnCardClicked(CardView card)
@@ -165,14 +102,16 @@ namespace CardGame.Scripts
 
         void CheckLevelComplete()
         {
-            if (board.GetCards().All(c => c.Model.IsMatched))
-            {
-                level++;
-                SaveSystem.Save(level);
-                MessageCenter.Send(LevelNote.Set, level);
-                MessageCenter.Send(AudioNote.PlayGameOver);
-                StartLevel();
-            }
+            MessageCenter.Send(BoardNote.CheckLevelComplete);
+        }
+
+        void OnLevelComplete()
+        {
+            level++;
+            SaveSystem.Save(level);
+            MessageCenter.Send(LevelNote.Set, level);
+            MessageCenter.Send(AudioNote.PlayGameOver);
+            StartLevel();
         }
     }
 }

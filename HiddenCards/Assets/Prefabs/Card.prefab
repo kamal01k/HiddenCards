@@ -67,6 +67,7 @@ MonoBehaviour:
   visual: {fileID: 6673551252261745384}
   front: {fileID: 8654344045880623092}
   back: {fileID: 4423200279999074949}
+  group: {fileID: 3661364605321712159}
 --- !u!114 &163484123357140684
 MonoBehaviour:
   m_ObjectHideFlags: 0
